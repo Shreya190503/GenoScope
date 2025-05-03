@@ -1,3 +1,5 @@
+GenoScope
+
 🧬 Welcome to GenoScope
 Next-Generation Sequencing Analysis Platform
   GenoScope is a comprehensive, user-friendly web server designed to streamline next-generation sequencing (NGS) data analysis from raw reads to actionable biological insights. Our    

@@ -69,9 +69,7 @@ GenoScope Workflow:
 
 -Support & Documentation
   📚 User Manual
-  🎥 Video Tutorials
-  ✉️ Support Email: genomics-support@example.com
-  🐛 Report Issues
+  ✉️ Support Email: shreyasancheti190503@gmail.com
 
 -Contact
  Email: shreyasancheti190503@gmail.com

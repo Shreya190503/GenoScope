@@ -256,6 +256,14 @@ def about_page():
     - **Interactive Visualization**: Explore alignments and variants
     - **Comprehensive Reports**: Quality metrics, variant statistics, and annotations
     - **User-Friendly Interface**: No command-line expertise required
+
+    ### How to use?
+    - Go to Genomic Pipeline page. Upload the Fastq and fasta files. Please make sure the file sizes are less than 200mb.
+    - See the fastqc report generated after the files are uploaded.
+    - According to the quality and fastqc report, go ahead with trimming, indexing, bam processing, sam processing and variant calling.
+    - There are options and parameters provided which can be customised as per the user's requirement to run the pipeline.
+    - This will generate a variant analysis report easy for user to interpret and process.
+    - Additionally, a feature to visualise bam file generated against the reference genome using igv has been added.
     
     ### Supported Analyses:
     - Whole Genome Sequencing

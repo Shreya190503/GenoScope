@@ -71,5 +71,4 @@ GenoScope Workflow:
   📚 User Manual
   ✉️ Support Email: shreyasancheti190503@gmail.com
 
--Contact
- Email: shreyasancheti190503@gmail.com
+

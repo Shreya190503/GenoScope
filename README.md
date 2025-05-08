@@ -1,4 +1,4 @@
-GenoScope
+# *GenoScope*
 
 🧬 Welcome to GenoScope
 Next-Generation Sequencing Analysis Platform

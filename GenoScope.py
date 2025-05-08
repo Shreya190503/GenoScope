@@ -251,32 +251,33 @@ def about_page():
     
     GenoScope provides an integrated environment for processing and analyzing next-generation sequencing data.
     
-    ### Key Features:
+    ### *Key Features:*
     - **End-to-End Pipeline**: FASTQ to VCF with customizable steps
     - **Interactive Visualization**: Explore alignments and variants
     - **Comprehensive Reports**: Quality metrics, variant statistics, and annotations
     - **User-Friendly Interface**: No command-line expertise required
 
-    ### How to use?
-    - Go to Genomic Pipeline page. Upload the Fastq and fasta files. Please make sure the file sizes are less than 200mb.
+    ### *How to use?*
+    - Go to Genomic Pipeline page. Upload the Fastq and reference fasta files. Please make sure the file sizes are less than 200mb.
     - See the fastqc report generated after the files are uploaded.
     - According to the quality and fastqc report, go ahead with trimming, indexing, bam processing, sam processing and variant calling.
-    - There are options and parameters provided which can be customised as per the user's requirement to run the pipeline.
+    - There are options for tools to be selected and parameters provided which can be customised as per the user's requirement to run the pipeline.
     - This will generate a variant analysis report easy for user to interpret and process.
-    - Additionally, a feature to visualise bam file generated against the reference genome using igv has been added.
+    - Additionally, a feature to visualise bam file generated against the reference genome using igv has been added which can be accessed through navigation window.
     
-    ### Supported Analyses:
+    ### *Supported Analyses:*
     - Whole Genome Sequencing
     - Exome Sequencing
     - Targeted Panels
     - RNA-Seq (coming soon)
     
-    ### Contact:
-    - Name of developer: Shreya Sancheti
-    - Email: shreyasancheti190503@gmail.com
+    ### *Contact:*
+    - *Name of developer*: Shreya Sancheti
+    - *Email*: shreyasancheti190503@gmail.com
     
     ### Acknowledgement:
     - Dr.Kushgra Kashyap, Professor, DESPU
+    - LinkedIN ID: https://www.linkedin.com/in/dr-kushagra-kashyap
     """)
 
 def genomic_pipeline_page():
